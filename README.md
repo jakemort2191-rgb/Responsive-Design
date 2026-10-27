@@ -37,4 +37,4 @@ Created as part of my HTML course portfolio checkpoint.
 
 This repository represents my learning progress and commitment to developing my frontend web development skills.
 
-Status: In Progress 🚧
+Status: In Progress
